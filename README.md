@@ -2,7 +2,7 @@
 ## Thông tin bài nộp
 
 - Họ tên SV: Trần Đăng Khoa  
-- MSSV: 180889  
+- MSSV: 170124395  
 - Môn học: Chuyên đề ASP.NET  
 - Nội dung: Cơ sở dữ liệu Website Đặt Lịch Khám Bệnh  
 
